@@ -544,5 +544,6 @@ body {
 
   .menu__list-item + .menu__list-item {
     margin-left: 18px;
+    margin-right: 0;
   }
 }
